@@ -20,6 +20,9 @@ Blood Donation -
 
 
 Installation
+
+
+
 Install XAMPP.
 
 Open XAMPP Control panal and start [apache] and [mysql] .
