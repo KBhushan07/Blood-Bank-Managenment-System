@@ -25,7 +25,7 @@ Installation
 
 Install XAMPP.
 
-Open XAMPP Control panal and start [apache] and [mysql] .
+Open XAMPP Control panal and start apache and mysql .
 
 Download project from github(https://github.com/varunsardana004/Blood-Bank-And-Donation-Management-System.git
 
@@ -41,6 +41,4 @@ After creating database name click on import.
 
 Browse the file in directory[BDMS/sql/blood_bank_database.sql].
 
-After importing successfully.
-
-Open any browser and type http://localhost/BDMS/home.php to open User layout.
+After importing successfully , Open any browser and type http://localhost/BDMS/home.php to open User layout.
